@@ -9,7 +9,7 @@ My first programming language was R, back in 2018 when I worked as a public heal
 
 Since then, I got increasingly keen in learning programming languages such as R (and now python) to handle big data. It appeals to my interests in solving problems logically and in gleaning real world insights from vast amounts of data.
 
-All these have then culminated in a mini career change, which have seen me jump from working in a predominantly academic heavy backdrop to landing a data analyst role where my day to day responsibilities involve cleaning (a lot of cleaning!), analysing and interpreting big data.
+All these have then culminated in a mini career change, which have seen me jump from working in a predominantly academic heavy environment to landing a data analyst role where my day to day responsibilities involve cleaning (a lot of cleaning!), analysing and interpreting big data.
 
 I one day aspire to work in the intersection of data and global health. As such, this site was born to serve as an online platform for me to document my progress in this regard!
 
