@@ -13,11 +13,11 @@ description:
 #   <br><br>
 #   </p>
 
-navbar:
- title: "Ashley's website"
- left:
- - text: "Home"
-   href: index.html
+# navbar:
+#  title: "Ashley's website"
+#  left:
+#  - text: "Home"
+#    href: index.html
   
-theme: jekyll-theme-minimal
+theme: flatly #jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
