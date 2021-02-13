@@ -13,7 +13,7 @@ I one day aspire to work in the intersection of big data and global health. As s
 
 ### Portfolio
 
-There is no order to my explorations of the rather arbitrary subject matters as below. I wish to ultimately collate a list of milestones where every subsequent post would be progressively better than the ones before.
+The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before.
 
 ---
 
