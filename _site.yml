@@ -11,3 +11,7 @@ navbar:
    href: personal-projects.html 
  - text: "Coursera exercises"
    href: coursera-exercises-homepage-setup.html
+   
+ output:
+  html_document:
+    theme: flatly
