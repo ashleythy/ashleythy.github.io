@@ -1,4 +1,4 @@
-[About me](/_pages/about_me.md)
+[About me](about_me.md)
 
 ---
 
