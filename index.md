@@ -7,7 +7,7 @@ My academic background, however, lies within the biomedical and social sciences,
 
 My first programming language was R, back in 2018 when I worked as a public health research assistant. Picking up R from scratch was tough, but I couldn’t have done so without the trusty help of fellow data enthusiasts of stack overflow and through online courses on coursera, datacamp, and the like. The same applies to my relationship with Python. 
 
-I aspire to one day, work in the intersection of big data and global health. As such, this site was born for me to document my progress in this regard!
+I aspire to one day work in the intersection of big data and global health. As such, this site was born for me to document my progress in this regard!
 
 ---
 
