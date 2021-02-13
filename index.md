@@ -4,6 +4,8 @@
 
 ## Portfolio
 
+There is no particular order to my explorations of the rather arbitrary subject matters as below. I wish to ultimately collate a list of milestones where every subsequent post would be progressively better than the ones before.
+
 
 
 ---
