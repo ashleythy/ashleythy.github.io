@@ -1,7 +1,3 @@
-## [About me](about_me.md)
-
----
-
 ## Portfolio
 
 ---
