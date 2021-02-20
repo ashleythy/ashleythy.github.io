@@ -15,7 +15,16 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before:
 
+6) [Predicting movie ratings on IMDb](/html/entry6.html), <i>29 Oct 2019</i>
+In my third exercise, I use linear and multiple regression modelling to understand factors affecting movie ratings on IMDb. 
+
+5) [Statistical inference with the GSS data](/html/entry5.html), <i>15 Oct 2019</i>
+
+In my second exercise of the Coursera course, I explore another dataset. Here, in addition to a mere descriptive analysis of the data, I also put into pratice what I have learnt about conducting statistical tests, such as the Chi-squared test. 
+
 4) [Exploring the BRFSS dataset with descriptive analysis](/html/entry4.html), <i>29 August 2019</i>
+
+I started taking online lessons on Coursera in relation to [statistics with R](https://www.coursera.org/specializations/statistics), which required me to execute several peer-reviewed exercises. I will be documenting my homework here. In this first exercise, I explore a dataset with simple visualisation methods and summary statistics for descriptive purposes. 
 
 3) [Cleaning data using stringr](/html/entry3.html), <i>01 July 2019</i>
 
