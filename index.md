@@ -13,10 +13,19 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 ### Portfolio
 
-The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before.
+The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before:
+
+3) [Cleaning data using stringr](/html/entry3.html), 01 July 2019
+
+My novice introduction to the term 'data wrangling' and 'regex', and the concept of defining functions to avoid repeating similar tasks when scripting. 
+
+2) [Quantifying the relationship between global carbon dioxide emission and economic growth](/html/entry2.html), 20 Jan 2019
+
+Here, I calculate the strength of relationship between the above variables using Pearson's correlation test, and putting my basic statistical understanding of correlations and p-values to the test. 
+
+1) [Visualising the relationship between global carbon dioxide emission and economic growth](/html/entry1.html), 24 Dec 2018
+
+My first very attempt in visualising an in-built dataset by the World Bank using the R plotly package!
 
 ---
-[example entry 1](/html/entry1_visualising-relationship.html)
-
-[example entry 3](/html/entry3_data-cleaning.html)
 
