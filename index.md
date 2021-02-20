@@ -15,17 +15,17 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before:
 
-4) [Exploring the BRFSS dataset with descriptive analysis](/html/entry4.html), 29 August 2019
+4) [Exploring the BRFSS dataset with descriptive analysis](/html/entry4.html), <i>29 August 2019</i>
 
-3) [Cleaning data using stringr](/html/entry3.html), <b>01 July 2019</b>
+3) [Cleaning data using stringr](/html/entry3.html), <i>01 July 2019</i>
 
 My novice introduction to the term 'data wrangling' and 'regex', and the concept of defining functions to avoid repeating similar tasks when scripting. 
 
-2) [Quantifying the relationship between global carbon dioxide emission and economic growth](/html/entry2.html), 20 Jan 2019
+2) [Quantifying the relationship between global carbon dioxide emission and economic growth](/html/entry2.html), <i>20 Jan 2019</i>
 
 Here, I calculate the strength of relationship between the above variables using Pearson's correlation test. I also put my basic understanding of correlations and p-values to the test. 
 
-1) [Visualising the relationship between global carbon dioxide emission and economic growth](/html/entry1.html), 24 Dec 2018
+1) [Visualising the relationship between global carbon dioxide emission and economic growth](/html/entry1.html), <i>24 Dec 2018</i>
 
 My first very attempt in visualising an in-built dataset by the World Bank using the R plotly package (and R markdown)!
 
