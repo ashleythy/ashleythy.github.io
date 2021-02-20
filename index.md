@@ -16,5 +16,5 @@ I aspire to one day work in the intersection of big data and global health. As s
 The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before.
 
 ---
-
+[example entry 1](/html/entry1_visualising-relationship.html)
 
