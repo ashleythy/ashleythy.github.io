@@ -15,7 +15,9 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before:
 
-3) [Cleaning data using stringr](/html/entry3.html), 01 July 2019
+4) Exploring the BRFSS dataset with descriptive analysis (/html/entry4.html), 29 August 2019
+
+3) [Cleaning data using stringr](/html/entry3.html), <b>01 July 2019</b>
 
 My novice introduction to the term 'data wrangling' and 'regex', and the concept of defining functions to avoid repeating similar tasks when scripting. 
 
