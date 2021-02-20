@@ -17,4 +17,5 @@ The goal is to collate a list of milestones where every subsequent post would be
 
 ---
 [example entry 1](/html/coursera_entry#1.html)
+[example entry 2](/html/entry#2.html)
 
