@@ -19,11 +19,13 @@ The goal is to collate a list of milestones where every subsequent post would be
 
 My first record of moving from R to Python.. Here, I mostly utilise Pandas for my data analysis, playing with various data structures (dataframes, lists, dictionaries) for basic calculations. I also learnt something new here - the Collections module!
 
+---
+
 <b>29 Oct 2019</b> - [Predicting movie ratings on IMDb](/html/entry6.html)
 
 In my third exercise, I use linear and multiple regression modelling to understand factors affecting movie ratings on IMDb. 
 
-<hr>
+---
 
 <b>15 Oct 2019</b> - [Statistical inference with the GSS data](/html/entry5.html)
 
@@ -41,13 +43,13 @@ I started taking online lessons on Coursera in relation to [statistics with R](h
 
 My novice introduction to the term 'data wrangling' and 'regex', and the concept of defining functions to avoid repeating similar tasks when scripting. 
 
-<hr>
+---
 
 <b>20 Jan 2019</b> - [Quantifying the relationship between global carbon dioxide emission and economic growth](/html/entry2.html)
 
 Here, I calculate the strength of relationship between the above variables using Pearson's correlation test. I also put my basic understanding of correlations and p-values to the test. 
 
-<hr>
+---
 
 <b>24 Dec 2018</b> - [Visualising the relationship between global carbon dioxide emission and economic growth](/html/entry1.html)
 
