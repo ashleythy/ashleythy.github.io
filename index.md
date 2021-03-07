@@ -15,7 +15,7 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before:
 
-<07 March 2021</b> - [A simple analysis of students' classroom grades](/html/entry7.html)
+<b>07 March 2021</b> - [A simple analysis of students' classroom grades](/html/entry7.html)
 
 My first record of moving from R to Python.. Here, I mostly utilise Pandas for my data analysis, playing with various data structures (dataframes, lists, dictionaries) for basic calculations. I also learnt something new here - the Collections module!
 
