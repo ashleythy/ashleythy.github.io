@@ -23,21 +23,31 @@ My first record of moving from R to Python.. Here, I mostly utilise Pandas for m
 
 In my third exercise, I use linear and multiple regression modelling to understand factors affecting movie ratings on IMDb. 
 
+<hr>
+
 <b>15 Oct 2019</b> - [Statistical inference with the GSS data](/html/entry5.html)
 
 In my second exercise of the Coursera course, I explore another dataset. Here, in addition to a mere descriptive analysis of the data, I also put into pratice what I have learnt about conducting statistical tests, such as the Chi-squared test. 
+
+<hr>
 
 <b>29 August 2019</b> - [Exploring the BRFSS dataset with descriptive analysis](/html/entry4.html)
 
 I started taking online lessons on Coursera in relation to [statistics with R](https://www.coursera.org/specializations/statistics), which required me to execute several peer-reviewed exercises. I will be documenting my homework here. In this first exercise, I explore a dataset with simple visualisation methods and summary statistics for descriptive purposes. 
 
+<hr>
+
 <b>01 July 2019</b> - [Cleaning data using stringr](/html/entry3.html)
 
 My novice introduction to the term 'data wrangling' and 'regex', and the concept of defining functions to avoid repeating similar tasks when scripting. 
 
+<hr>
+
 <b>20 Jan 2019</b> - [Quantifying the relationship between global carbon dioxide emission and economic growth](/html/entry2.html)
 
 Here, I calculate the strength of relationship between the above variables using Pearson's correlation test. I also put my basic understanding of correlations and p-values to the test. 
+
+<hr>
 
 <b>24 Dec 2018</b> - [Visualising the relationship between global carbon dioxide emission and economic growth](/html/entry1.html)
 
