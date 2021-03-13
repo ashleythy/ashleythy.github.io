@@ -17,7 +17,7 @@ The goal is to collate a list of milestones where every subsequent post would be
 
 <b>13 March 2021</b> - [Sieve of Eratosthenes](/html/entry8.html)
 
-I was presented with this challenge of getting all prime numbers that are smaller than or equal to n, and very gradually, I managed to define three functions of doing so, with the second and third functions as attempts to incorporate the Sieve of Eratosthenes method. The thought process behind the last function grilled me - both its logic and implementation. If anything, this exercise has cemented my practical understanding of the while loop.
+I was presented with this challenge of getting all prime numbers that are smaller than or equal to n, and <i>very</i> gradually, I managed to define three functions to do so, with the second and third functions attempting to incorporate the Sieve of Eratosthenes method. The thought process behind defining the last function grilled me - both its logic and implementation. If anything, this exercise has taught me more about the while loop.
 
 ---
 
