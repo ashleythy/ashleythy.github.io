@@ -15,6 +15,12 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before:
 
+<b>10 April 2021</b> - [EDA on the Gapminder dataset - exploring the total roads paved in a country](/html/entry9.html)
+
+In this exercise, I learnt about numpy.where() as a faster method to return elements based on multiple conditions specified in a dataframe, as opposed to my go-to method of row by row looping. 
+
+---
+
 <b>13 March 2021</b> - [Sieve of Eratosthenes](/html/entry8.html)
 
 Here, I attempt to define functions to get all prime numbers that are smaller than or equal to n. I found to be quite a challenging task.. but if anything, this exercise has cemented my practical understanding of the while loop.
