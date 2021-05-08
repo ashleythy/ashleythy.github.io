@@ -15,6 +15,12 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before:
 
+<b>09 May 2021</b> - [A/B Testing and Logistic Regressions](/html/entry10.html)
+
+I applied my knowledge of basic statistics and hypothesis testing in a given case study, that is to understand if a new page yielded more favorable results than an old page. 
+
+---
+
 <b>10 April 2021</b> - [EDA on the Gapminder dataset - exploring the total roads paved in a country](/html/entry9.html)
 
 In this exercise, I learnt about numpy.where() as a faster method to return elements based on multiple conditions specified in a dataframe, as opposed to my go-to method of row by row looping. 
