@@ -15,6 +15,12 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 The goal is to collate a list of milestones where every subsequent post would be progressively better than the ones before:
 
+<b>29 May 2021</b> - [Cleaning Twitter's WeRateDogs data](/html/entry11.html)
+
+Here, I learnt to systematically wrangle data, by dividing the exercise into fixing data quality and data tidiness issues. 
+
+---
+
 <b>09 May 2021</b> - [A/B Testing and Logistic Regression](/html/entry10.html)
 
 I applied my knowledge of basic statistics and hypothesis testing in a given case study, that is to understand if a new page yielded more favorable results than an old page. 
