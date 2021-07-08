@@ -1,5 +1,3 @@
-This is my code base for my personal online portfolio
+`html` contains all of my posts in html format
 
-config.yml corresponds to the left panel
-
-index.md corresponds to the main page/ right panel
+`index.md` corresponds to the profile description text
