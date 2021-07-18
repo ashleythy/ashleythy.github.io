@@ -1,13 +1,15 @@
 
 ### About me
 
-Hi! My name is Ashley and I am currently working as a data analyst in a property tech start up in Malaysia.
+Hi! 
 
-My academic background, however, lies within the biomedical and social sciences, specifically in neuroscience and global health and development.
+My name is Ashley and I am a self-taught programmer who is currently working as a Data Analyst. 
 
-My first programming language was R, back in 2018 when I worked as a public health research assistant. Picking up R from scratch was tough, but I couldn’t have done so without the trusty help of fellow data enthusiasts of stack overflow and through online courses on coursera, datacamp, and the like. The same applies to my relationship with Python. 
+My experiences and interests have seen me pivot from an academic and career backdrop in biomedical and social sciences to the world of data. 
 
-I aspire to one day work in the intersection of big data and global health. As such, this site was born for me to document my progress in this regard!
+My first programming language was R, back in 2018 when I worked as a public health research assistant. Picking up R from scratch was tough, but I couldn’t have done so without the trusty help of fellow data enthusiasts of Stack Overflow, and through Coursera, DataCamp, and the like. The same applies to my relationship with Python. 
+
+I aspire to one day work in the intersection of big data and global health. As such, this site was born to document my learning progress in data analytics. 
 
 ---
 
