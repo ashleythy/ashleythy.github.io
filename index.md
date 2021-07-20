@@ -5,7 +5,7 @@ Hi!
 
 My name is Ashley and I am a self-taught programmer who is currently working as a Data Analyst in a Malaysian start-up.
 
-My experiences and interests have seen me pivot from an academic and career backdrop in biomedical and social sciences to the world of data. 
+My interests have seen me pivot from an academic and career backdrop in biomedical and social sciences to the world of data. 
 
 Picking up Python was challenging, but I couldn’t have done so without the trusty help of fellow data enthusiasts of Stack Overflow, Coursera, DataCamp, and the like.
 
@@ -16,6 +16,12 @@ I aspire to one day work in the intersection of big data and global health. As s
 ### Portfolio
 
 Here, I collate a list of Jupyter Notebooks where I try my hand at exploring various topics of interest. I endeavour for every new post to be more insightful than the ones before. 
+
+<b>20 July 2021</b> - [Analysing Singapore's HDB resale prices](/html/entry12.html)
+
+Applying multiple linear regression to study factors that affect HDB resale prices in Singapore.
+
+---
 
 <b>29 May 2021</b> - [Cleaning Twitter's WeRateDogs data](/html/entry11.html)
 
@@ -29,7 +35,7 @@ Applying hypothesis tests in A/B Testing to evaluate if a new web page is more f
 
 ---
 
-<b>10 April 2021</b> - [EDA on the Gapminder dataset - exploring the total roads paved in a country](/html/entry9.html)
+<b>10 April 2021</b> - [Exploring the Gapminder dataset](/html/entry9.html)
 
 A simple exploration of the Gapminder dataset.
 
@@ -41,9 +47,7 @@ Can I get all prime numbers that are smaller than or equal to any given number n
 
 ---
 
-<b>07 March 2021</b> - [A simple analysis of students' classroom grades](/html/entry7.html)
+<b>07 March 2021</b> - [Analysing students' classroom grades](/html/entry7.html)
 
-A simple analysis of students' exam and homework grades. 
-
----
+A simple analysis of exam and homework grades. 
 
