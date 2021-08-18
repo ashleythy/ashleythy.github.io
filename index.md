@@ -17,7 +17,13 @@ I aspire to one day work in the intersection of big data and global health. As s
 
 Here, I collate a list of Jupyter Notebooks where I try my hand at exploring various topics of interest. I endeavour for every new post to be more insightful than the ones before. 
 
-<b>20 July 2021</b> - [Analysing Singapore's HDB resale prices](/html/entry12.html)
+<b>18 August 2021</b> - [Predicting readmission rates for diabetic patients: A decision tree approach](/html/entry13.html)
+
+A decision tree model in predicting readmission outcome for diabetic patients in the US. 
+
+---
+
+<b>20 July 2021</b> - [Analysing Singapore's HDB resale prices: A multiple linear regression approach](/html/entry12.html)
 
 Applying multiple linear regression to study factors that affect HDB resale prices in Singapore.
 
@@ -31,13 +37,13 @@ A systematic approach in the data wrangling of Twitter's WeRateDogs dataset by f
 
 <b>09 May 2021</b> - [A/B Testing and Logistic Regression](/html/entry10.html)
 
-Applying hypothesis tests in A/B Testing to evaluate if a new web page is more favorable than its' old web page.
+Applying hypothesis testing in A/B Testing to evaluate if a new web page is more favorable than it's old web page.
 
 ---
 
 <b>10 April 2021</b> - [Exploring the Gapminder dataset](/html/entry9.html)
 
-A simple exploration of the Gapminder dataset.
+A very basic exploration of the Gapminder dataset.
 
 ---
 
