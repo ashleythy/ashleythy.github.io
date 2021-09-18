@@ -5,13 +5,13 @@ Hi!
 
 My name is Ashley and I am a self-taught programmer with a background in biomedical and social sciences. I am currently working as a Data Analyst in a proptech start-up.
 
-I aspire to one day work in the intersection of big data and public health. As such, this site was born to document my progress in coding with Python, learning statistics and understanding what machine learning is all about. 
+There is so much about data analytics and data science for me to learn. So, this site was born to document my progress in coding with Python, learning statistics, and understanding what machine learning is all about. 
 
 ---
 
 ### Portfolio
 
-Here, I collate a list of Jupyter Notebooks where I try my hand at exploring various topics of interest. I endeavour for every new post to be more insightful than the ones before. 
+Here, I collate a list of Jupyter Notebooks where I try my hand at exploring various topics of interests. I endeavour for every new post to be more insightful than the ones before. 
 
 <b>13 September 2021</b> - [Visualising restaurant cuisine diversity in Malaysia: A K-means clustering approach](/html/entry14.html)
 
