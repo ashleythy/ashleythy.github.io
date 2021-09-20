@@ -3,9 +3,7 @@
 
 Hi! 
 
-My name is Ashley and I am a self-taught programmer with a background in biomedical and social sciences. I am currently working as a Data Analyst in a proptech start-up.
-
-There is so much about data analytics and data science for me to learn. So, this site was born to document my progress in coding with Python, learning statistics, and understanding what machine learning is all about. 
+My name is Ashley and I am a self-taught programmer with a background in biomedical and social sciences. I am currently working as a Data Analyst in a proptech start-up. This site was born to document my progress in coding with Python, learning statistics, and understanding what machine learning is all about. 
 
 ---
 
