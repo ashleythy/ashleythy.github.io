@@ -11,19 +11,19 @@ My name is Ashley and I am a self-taught programmer with a background in biomedi
 
 Here, I collate a list of Jupyter Notebooks where I try my hand at exploring various topics of interests. I endeavour for every new post to be more insightful than the ones before. 
 
-<b>13 September 2021</b> - [Visualising restaurant cuisine diversity in Malaysia: A K-means clustering approach](/html/entry14.html)
+<b>13 September 2021</b> - [Visualising restaurant cuisine diversity in Malaysia: A K-Means Clustering approach](/html/entry14.html)
 
 A neighborhood segmentation exercise using K-means clustering to study the diversity of restaurant cuisines in Malaysia.
 
 ---
 
-<b>18 August 2021</b> - [Predicting readmission rates for diabetic patients: A decision tree approach](/html/entry13.html)
+<b>18 August 2021</b> - [Predicting readmission rates for diabetic patients: A Decision Tree Classification approach](/html/entry13.html)
 
 A decision tree model in predicting readmission outcome for diabetic patients in the US. 
 
 ---
 
-<b>20 July 2021</b> - [Analysing Singapore's HDB resale prices: A multiple linear regression approach](/html/entry12.html)
+<b>20 July 2021</b> - [Analysing Singapore's HDB resale prices: A Multiple Linear Regression approach](/html/entry12.html)
 
 Applying multiple linear regression to identify factors that affect HDB resale prices in Singapore.
 
