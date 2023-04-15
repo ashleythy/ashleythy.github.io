@@ -1,53 +1,33 @@
+### ABOUT ME
 
-### About me
+Hi, my name is Ashley and I am a Data Scientist who pivoted from a career in Public Health research and consulting. 
 
-Hi! 
+I am a self-taught Python programmer so all thanks go to Udacity, StatQuest with Josh Starmer, Statistics by Jim, Joma Tech, and many more, for patiently teaching me the ropes. 
 
-My name is Ashley and I am a self-taught programmer with a background in biomedical and social sciences. I am currently working as a Data Analyst in a proptech start-up. This site was born to document my progress in coding with Python, learning statistics, and understanding what machine learning is all about. 
-
----
-
-### Portfolio
-
-Here, I collate a list of Jupyter Notebooks where I try my hand at exploring various topics of interests. I endeavour for every new post to be more insightful than the ones before. 
-
-<b>13 September 2021</b> - [Visualising restaurant cuisine diversity in Malaysia: A K-Means Clustering approach](/html/entry14.html)
-
-A neighborhood segmentation exercise using K-means clustering to study the diversity of restaurant cuisines in Malaysia.
+I typically learn best by doing, so this site was conceived to document my learnings, however big or small. 
 
 ---
 
-<b>18 August 2021</b> - [Predicting readmission rates for diabetic patients: A Decision Tree Classification approach](/html/entry13.html)
+### PROJECTS
 
-A decision tree model in predicting readmission outcome for diabetic patients in the US. 
-
----
-
-<b>20 July 2021</b> - [Analysing Singapore's HDB resale prices: A Multiple Linear Regression approach](/html/entry12.html)
-
-Applying multiple linear regression to identify factors that affect HDB resale prices in Singapore.
+<b>13 September 2021</b> - [K-Means Clustering: Visualising cuisine diversity of the food landscape in Malaysia](/html/entry14.html)
 
 ---
 
-<b>29 May 2021</b> - [Cleaning Twitter's WeRateDogs data](/html/entry11.html)
-
-A systematic approach in cleaning Twitter's WeRateDogs dataset by defining the problem, coding the solution, and testing the solution.
+<b>18 August 2021</b> - [Decision Tree: Predicting readmission rates of diabetic patients in the US](/html/entry13.html)
 
 ---
 
-<b>09 May 2021</b> - [A/B Testing and Logistic Regression](/html/entry10.html)
-
-Applying hypothesis testing in A/B Testing to evaluate if a new web page is more favorable than the old web page.
+<b>20 July 2021</b> - [Multiple Linear Regression: Understanding resale prices of Singapore's HDBs](/html/entry12.html)
 
 ---
 
-<b>10 April 2021</b> - [Exploring the Gapminder dataset](/html/entry9.html)
-
-A very basic exploration of the Gapminder dataset.
+<b>29 May 2021</b> - [Data Cleaning: Tidying Twitter's WeRateDogs data](/html/entry11.html)
 
 ---
 
-<b>07 March 2021</b> - [Analysing students' classroom grades](/html/entry7.html)
+<b>09 May 2021</b> - [A/B Testing and Logistic Regression: Does a new web page lead to higher user conversions?](/html/entry10.html)
 
-A simple analysis of exam and homework grades. 
+---
 
+<b>07 March 2021</b> - [Data Analysis: Analyzing exam scores](/html/entry7.html)
