@@ -10,24 +10,26 @@ I typically learn best by doing, so this site was conceived to document my learn
 
 ### PROJECTS
 
-<b>13 September 2021</b> - [K-Means Clustering: Visualising cuisine diversity of the food landscape in Malaysia](/html/entry14.html)
+<b>September 2021</b> - [K-Means Clustering: Visualising cuisine diversity of the food landscape in Malaysia](/projects/2021-09-01/cuisine_diversity/2-notebook.html)
 
 ---
 
-<b>18 August 2021</b> - [Decision Tree: Predicting readmission rates of diabetic patients in the US](/html/entry13.html)
+<b>August 2021</b> - [Decision Tree: Predicting readmission rates of diabetic patients in the US](/projects/2021-08-01/diabetic_readmission_rates/entry13.html)
 
 ---
 
-<b>20 July 2021</b> - [Multiple Linear Regression: Understanding resale prices of Singapore's HDBs](/html/entry12.html)
+<b>July 2021</b> - [Multiple Linear Regression: Understanding resale prices of Singapore's HDBs](/projects/2021-07-01/hdb_resale_prices/entry12.html)
 
 ---
 
-<b>29 May 2021</b> - [Data Cleaning: Tidying Twitter's WeRateDogs data](/html/entry11.html)
+<b>May 2021</b> - [Data Cleaning: Tidying Twitter's WeRateDogs data](/projects/2021-05-01/data_cleaning/entry11.html)
 
 ---
 
-<b>09 May 2021</b> - [A/B Testing and Logistic Regression: Does a new web page lead to higher user conversions?](/html/entry10.html)
+<b>May 2021</b> - [A/B Testing and Logistic Regression: Does a new web page lead to higher user conversions?](/projects/2021-05-01/ab_test/entry10.html)
 
 ---
 
-<b>07 March 2021</b> - [Data Analysis: Analyzing exam scores](/html/entry7.html)
+<b>March 2021</b> - [Data Analysis: Analyzing exam scores](/projects/2021-03-01/data_analysis/entry7.html)
+
+---
