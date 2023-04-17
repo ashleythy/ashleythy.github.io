@@ -2,7 +2,7 @@
 
 Hi, my name is Ashley and I am a Data Scientist who pivoted from a career in Public Health research and consulting. 
 
-I am a self-taught Python programmer so all thanks go to Udacity, StatQuest with Josh Starmer, Statistics by Jim, Joma Tech, and many more, for patiently teaching me the ropes. 
+I am a self-taught Python programmer so all thanks go to Udacity, StatQuest with Josh Starmer, Statistics by Jim, Joma Tech (ha ha), and maaaany more, for patiently teaching me the ropes. 
 
 I typically learn best by doing, so this site was conceived to document my learnings, however big or small. 
 
@@ -10,7 +10,7 @@ I typically learn best by doing, so this site was conceived to document my learn
 
 ### PROJECTS
 
-<b>September 2021</b> - [K-Means Clustering: Visualising cuisine diversity of the food landscape in Malaysia](/projects/2021-09-01/cuisine_diversity/2-notebook.html)
+<b>September 2021</b> - [K-Means Clustering: Visualising cuisine diversity in the Klang Valley](/projects/2021-09-01/cuisine_diversity/2-notebook.html)
 
 ---
 
