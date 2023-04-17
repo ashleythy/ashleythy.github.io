@@ -14,22 +14,22 @@ I typically learn best by doing, so this site was conceived to document my learn
 
 ---
 
-<b>August 2021</b> - [Decision Tree: Predicting readmission rates of diabetic patients in the US](/projects/2021-08-01/diabetic_readmission_rates/entry13.html)
+<b>August 2021</b> - [Decision Tree: Predicting readmission rates of diabetic patients in the US](/projects/2021-08-01/diabetic_readmission_rates/diabetic_readmission_rates.html)
 
 ---
 
-<b>July 2021</b> - [Multiple Linear Regression: Understanding resale prices of Singapore's HDBs](/projects/2021-07-01/hdb_resale_prices/entry12.html)
+<b>July 2021</b> - [Multiple Linear Regression: Understanding resale prices of Singapore's HDBs](/projects/2021-07-01/hdb_resale_prices/hdb_resale_prices.html)
 
 ---
 
-<b>May 2021</b> - [Data Cleaning: Tidying Twitter's WeRateDogs data](/projects/2021-05-01/data_cleaning/entry11.html)
+<b>May 2021</b> - [Data Cleaning: Tidying Twitter's WeRateDogs data](/projects/2021-05-01/data_cleaning/data_cleaning_twitter.html)
 
 ---
 
-<b>May 2021</b> - [A/B Testing and Logistic Regression: Does a new web page lead to higher user conversions?](/projects/2021-05-01/ab_test/entry10.html)
+<b>May 2021</b> - [A/B Testing and Logistic Regression: Does a new web page lead to higher user conversions?](/projects/2021-05-01/ab_test/ab_test_logistic_regression.html)
 
 ---
 
-<b>March 2021</b> - [Data Analysis: Analyzing exam scores](/projects/2021-03-01/data_analysis/entry7.html)
+<b>March 2021</b> - [Data Analysis: Analyzing exam scores](/projects/2021-03-01/data_analysis/data_analysis_exam_scores.html)
 
 ---
